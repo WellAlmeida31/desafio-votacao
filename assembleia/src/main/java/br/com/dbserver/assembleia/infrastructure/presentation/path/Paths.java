@@ -44,10 +44,12 @@ public interface Paths {
         String FIND = "/find" + ID;
         String STATUS = "/status" + ID;
         String RESULT = "/result" + ID;
+        String REPORT = "/report" + ID;
     }
 
     interface Voto {
         String CREATE = "/create";
+
     }
 
     interface Placeholder {
