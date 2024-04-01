@@ -1,0 +1,20 @@
+{
+  "namespace": "br.com.dbserver.assembleia",
+  "type": "record",
+  "name": "Voto",
+  "version":"1.0.0",
+  "fields": [
+    {
+      "name": "votoValor",
+      "type": "string"
+    },
+    {
+      "name": "cpf",
+      "type": "string"
+    },
+    {
+      "name": "pauta",
+      "type": "long"
+    }
+  ]
+}
