@@ -48,9 +48,9 @@ http://localhost:8080/actuator
 `````
 
 ## Modelo de Dados
-![](/home/joao/Documentos/desafio_votacao/desafio-votacao/assembleia/banco.png)
+![banco.png](banco.png)
 
 ## Modelo da API
-![](/home/joao/Documentos/desafio_votacao/desafio-votacao/assembleia/clean.png)
+![clean.png](clean.png)
 
 
